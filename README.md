@@ -1,8 +1,8 @@
 
 <H2>Enter Name: Evangelin.S</H2>
 <H2>Enter Register No: 212221230025</H2>
-<H3>Experiment 2</H3>
-<H3>Date: 05-09-2024</H3>
+<H2>Experiment 2</H2>
+<H2>Date: 05-09-2024</H2>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ### Aim:

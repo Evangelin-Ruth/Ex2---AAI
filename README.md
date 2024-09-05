@@ -1,5 +1,5 @@
 
-<H1>Enter Name: Evangelin.S</H1>
+<H2>Enter Name: Evangelin.S</H2>
 <H2>Enter Register No: 212221230025</H2>
 <H3>Experiment 2</H3>
 <H3>Date: 05-09-2024</H3>

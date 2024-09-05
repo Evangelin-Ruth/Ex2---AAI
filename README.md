@@ -1,6 +1,6 @@
 
-Enter Name: Evangelin.S
-Enter Register No: 212221230025
+<H1>Enter Name: Evangelin.S</H1>
+<H2>Enter Register No: 212221230025</H2>
 <H3>Experiment 2</H3>
 <H3>Date: 05-09-2024</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
